@@ -7,8 +7,9 @@ two stages to this project:
   write:
   1. converting to hex
   2. storage
-  3. encrypting
-  4. comppresion
+  3. comppresion
+  4. encrypting
+
   read:
   1. readig
   2. un-encrypting
