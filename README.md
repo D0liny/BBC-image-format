@@ -4,6 +4,7 @@ yeah, its what you think it is. and yeah, i stole this idea from youtube
 i hate every format except png, so i made my own
 # how this works
 two stages to this project:
+
   write:
   1. converting to hex
   2. storage
