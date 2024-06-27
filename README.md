@@ -1,5 +1,5 @@
 # BBC-image-format
-yeah, its what you think it is. an yeah, i stole this idea from youtube
+yeah, its what you think it is. and yeah, i stole this idea from youtube
 # the idea
 i hate every format except png, so i made my own
 # how this works
